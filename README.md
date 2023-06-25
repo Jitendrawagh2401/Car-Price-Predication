@@ -13,7 +13,7 @@ How well do those variables describe the price of a car?
 
 Solution divided into following sections:
 
-Data Understanding
-Data Cleaning
-Data Preparation and Visualisation
+Data Understanding,
+Data Cleaning,
+Data Preparation and Visualisation,
 Model Building and Evaluation
