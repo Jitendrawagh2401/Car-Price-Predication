@@ -9,7 +9,10 @@ The company wants to know the following things:
 Which variables are significant in predicting the price of a car?
 How well do those variables describe the price of a car?
 
+
+
 Solution divided into following sections:
+
 Data Understanding
 Data Cleaning
 Data Preparation and Visualisation
